@@ -3,9 +3,11 @@
 
   "item.tutorialmods.sapphire": "Sapphire",
   "item.tutorialmods.raw_sapphire": "Raw Sapphire",
+  "item.tutorialmods.metal_detector": "Raw Sapphire",
 
   "block.tutorialmods.sapphire_block": "Sapphire Block",
   "block.tutorialmods.raw_sapphire_block": "Raw Sapphire Block",
+  "block.tutorialmods.sound_block": "Sound Block",
 
   "block.tutorialmods.sapphire_ore": "Sapphire Ore",
   "block.tutorialmods.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
